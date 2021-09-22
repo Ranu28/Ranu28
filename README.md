@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on flutter
+- 🌱 I’m currently learning Flutter
+<!-- - 👯 I’m looking to collaborate on flutter -->
 - 📫 How to reach me: ranupathiranage28@gmail.com
 
 <!--
