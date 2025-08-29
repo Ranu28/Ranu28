@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ranu Pathiranage</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate QA Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranu28&label=Profile%20views&color=0e75b6&style=flat" alt="ranu28" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sahan_ranu" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_ranu?logo=twitter&style=for-the-badge" alt="sahan_ranu" /></a> </p>
 
-- 🔭 I’m currently an Undergraduate at **Plymouth University Uk**
+- 🔭 I’m a graduate at **Plymouth University Uk**
 
 - 🌱 I’m currently learning **React Native**
 
